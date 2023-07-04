@@ -5,7 +5,9 @@
 <pre><strong>Input:</strong> 
 n = 10 
 ["call","call","call"]
+
 <strong>Output:</strong> [10,11,12]
+
 <strong>Explanation: 
 </strong>counter() = 10 // The first time counter() is called, it returns n.
 counter() = 11 // Returns 1 more than the previous time.
@@ -17,7 +19,9 @@ counter() = 12 // Returns 1 more than the previous time.
 <pre><strong>Input:</strong> 
 n = -2
 ["call","call","call","call","call"]
+
 <strong>Output:</strong> [-2,-1,0,1,2]
+
 <strong>Explanation:</strong> counter() initially returns -2. Then increases after each sebsequent call.
 </pre>
 
