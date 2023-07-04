@@ -1,18 +1,17 @@
 # LeetCode
 
-## Description
+## Описание
 
-Welcome to the LeetCode repository! Here you will find a collection of JavaScript solutions to algorithmic problems and coding challenges from the LeetCode platform. This repository is created to help you improve your programming skills and deepen your understanding of algorithms and data structures.
+Добро пожаловать в репозиторий LeetCode! Здесь вы найдете решения алгоритмических задач и проблем с платформы LeetCode. Репозиторий содержит код на языке JavaScript.
 
-### What you'll find here:
+### Что вы найдете здесь:
 
-1. Problem Solutions: The repository provides solutions to various problems encountered on the LeetCode platform. Each problem includes a detailed explanation, algorithmic approach, and corresponding JavaScript code.
+- Решения задач: В репозитории представлены решения разнообразных задач с платформы LeetCode. Каждая задача сопровождается подробным объяснением и соответствующим кодом на JavaScript.
 
-2. Problem Categorization: Problems are organized into different categories such as strings, arrays, trees, graphs, and more. This will help you find problems related to specific topics that interest you.
+- Категоризация задач: Задачи организованы по различным категориям, включая строки, массивы, деревья и многое другое. Это поможет вам легко найти задачи, связанные с конкретными темами.
 
-3. Optimal Approaches: The code in this repository is optimized for efficiency and performance. You'll be able to explore different algorithmic approaches and choose the most optimal solution for each problem.
+- Оптимальные подходы: Код в репозитории оптимизирован для эффективности и производительности. Вы сможете изучить различные алгоритмические подходы и выбрать наиболее оптимальное решение для каждой задачи.
 
-4. Test Examples: Each problem comes with sets of test examples to help you verify your solution and ensure its correctness.
+- Тестовые примеры: К каждой задаче прилагаются наборы тестовых примеров, чтобы проверить решение.
 
-We hope that this repository will assist you in enhancing your JavaScript programming skills and successfully tackling LeetCode algorithmic problems. Feel free to explore, learn, and contribute to this repository. Good luck with your LeetCode problem-solving journey!
-
+Мы надеемся, что этот репозиторий поможет вам развивать навыки программирования на языке JavaScript и успешно решать алгоритмические задачи на платформе LeetCode. Приятного изучения и решения задач!
