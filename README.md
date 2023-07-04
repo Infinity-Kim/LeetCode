@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to the LeetCode-JS-Solutions repository! Here you will find a collection of JavaScript solutions to algorithmic problems and coding challenges from the LeetCode platform. This repository is created to help you improve your programming skills and deepen your understanding of algorithms and data structures.
+Welcome to the LeetCode repository! Here you will find a collection of JavaScript solutions to algorithmic problems and coding challenges from the LeetCode platform. This repository is created to help you improve your programming skills and deepen your understanding of algorithms and data structures.
 
 ### What you'll find here:
 
